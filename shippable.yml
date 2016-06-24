@@ -6,7 +6,7 @@ services:
 
 # Version number
 node_js:
-  - 0.11
+  - 0.12
   
 
 
